@@ -11,7 +11,11 @@ I really like to travel and read books
 
 ### Programming Languages and Tools I work with:
 
-<code><img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" width="25px"><code>
-<code><img src="https://w7.pngwing.com/pngs/453/470/png-transparent-python-brands-icon.png" height="25px"><code>
-<code><img src="https://w7.pngwing.com/pngs/453/470/png-transparent-python-brands-icon.png" height="25px"><cod
+<a href="#"> 
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="30px">
+</a>
+
+
+
+
 
