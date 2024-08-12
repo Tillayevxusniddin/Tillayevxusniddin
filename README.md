@@ -11,7 +11,7 @@ I really like to travel and read books
 
 ### Programming Languages and Tools I work with:
 
-<code><img src="https://c0.klipartz.com/pngpicture/553/627/gratis-png-desarrollo-web-desarrollador-de-software-python-desarrollador-web-desarrollo-de-software-logotipo-de-python-thumbnail.png" width="25px"><code>
+<code><img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" width="25px"><code>
 <code><img src="https://w7.pngwing.com/pngs/453/470/png-transparent-python-brands-icon.png" height="25px"><code>
 <code><img src="https://w7.pngwing.com/pngs/453/470/png-transparent-python-brands-icon.png" height="25px"><cod
 
