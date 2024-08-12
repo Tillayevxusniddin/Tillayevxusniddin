@@ -16,12 +16,16 @@ I really like to travel and read books
 <a href="https://www.jetbrains.com/ru-ru/pycharm/"><img src="https://w7.pngwing.com/pngs/447/630/png-transparent-intellij-pycharm-alt-macos-bigsur-icon-thumbnail.png" width="35px"></a>
 <a href="https://www.postgresql.org/"><img src="https://cdn-icons-png.flaticon.com/128/5658/5658359.png" width="35px"></a>
 
-
 <br />
 
--📍&nbsp; Current location: Tashkent, Uzbekistan
--📌&nbsp; You can apply for any suggestions
--📩&nbsp; How to reach me:[@tillayevxusniddin](https://www.instagram.com/xusniddin13_04/)
+<h3 >Hey there! 👋</h3>
+
+<ul style="list-style-type: none;">
+  <li>📍 &nbsp; <strong>Current location:</strong> Tashkent, Uzbekistan</li>
+  <li>📌 &nbsp; <strong>Open to suggestions:</strong> Yes, always!</li>
+  <li>📩 &nbsp; <strong>How to reach me:</strong> <a href="https://t.me/Mr_Pydev">My Telegram </a> OR <a href="tillayevx1@gmail.com">My email</a></li>
+</ul>
+
 
 
 
