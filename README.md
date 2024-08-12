@@ -10,13 +10,15 @@ I really like to travel and read books
 <br />
 
 ### Programming Languages and Tools I work with:
+<a href="https://www.python.org/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="35px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968238.png" width="35px"></a>
+<a href="https://www.djangoproject.com/"><img src="https://builtwithdjango.com/static/vendors/images/logo.ee701a5f0ffc.png" width="35px"></a>
+<a href="https://www.jetbrains.com/ru-ru/pycharm/"><img src="https://w7.pngwing.com/pngs/447/630/png-transparent-intellij-pycharm-alt-macos-bigsur-icon-thumbnail.png" width="35px"></a>
+<a href="https://www.postgresql.org/"><img src="https://cdn-icons-png.flaticon.com/128/5658/5658359.png" width="35px"></a>
 
-<a style="text-decoration:none" href="#"> 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="30px">
-</a>
-<a style="text-decoration:none" href="#"> 
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968238.png" width="30px">
-</a>
+
+
+
 
 
 
