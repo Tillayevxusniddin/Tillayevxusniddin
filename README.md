@@ -11,5 +11,5 @@ I really like to travel and read books
 
 ### Programming Languages and Tools I work with:
 
-<code><img src="https://cdn-icons-png.freepik.com/512/5968/5968496.png" height="25px"><code>
+<code><img src="https://w7.pngwing.com/pngs/567/860/png-transparent-html-computer-icons-web-development-single-page-application-circle-logo.png" height="25px"><code>
 
