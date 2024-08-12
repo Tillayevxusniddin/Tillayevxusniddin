@@ -17,6 +17,12 @@ I really like to travel and read books
 <a href="https://www.postgresql.org/"><img src="https://cdn-icons-png.flaticon.com/128/5658/5658359.png" width="35px"></a>
 
 
+<br />
+
+-📍&nbsp; Current location: Tashkent, Uzbekistan
+-📌&nbsp; You can apply for any suggestions
+-📩&nbsp; How to reach me:[@tillayevxusniddin](https://www.instagram.com/xusniddin13_04/)
+
 
 
 
