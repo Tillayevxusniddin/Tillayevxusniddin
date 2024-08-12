@@ -11,7 +11,7 @@ I really like to travel and read books
 
 ### Programming Languages and Tools I work with:
 
-<code><img src="https://c0.klipartz.com/pngpicture/145/694/gratis-png-python-django-scikit-learn-lenguaje-de-programacion-javascript-maquina-de-soporte.png" height="25px"><code>
+<code><img src="https://w7.pngwing.com/pngs/266/560/png-transparent-python-computer-icons-programmer-javascript-programming-language-python-logo-angle-text-logo.png" height="25px"><code>
 <code><img src="https://w7.pngwing.com/pngs/453/470/png-transparent-python-brands-icon.png" height="25px"><code>
 <code><img src="https://w7.pngwing.com/pngs/453/470/png-transparent-python-brands-icon.png" height="25px"><cod
 
