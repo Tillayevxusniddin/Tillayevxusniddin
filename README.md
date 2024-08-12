@@ -14,7 +14,6 @@ I really like to travel and read books
 <a href="#"> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="30px">
 </a>
-
 <a href="#"> 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968238.png" width="30px">
 </a>
