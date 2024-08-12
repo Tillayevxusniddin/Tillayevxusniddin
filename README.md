@@ -4,5 +4,5 @@ I make projects about Web Backend Development in Python(Django, Flask) <br/>
 I really like to travel and read books
 
 <a href="#"> 
-<img src="https://i.pinimg.com/736x/d8/92/d0/d892d0154f2db98f399dc1a1b45a8624.jpg" width="25px">
+<img src="https://i.pinimg.com/736x/6a/39/8e/6a398e2bffd61024b7fa8c6eaf6a4e62.jpg" width="25px">
 </a>
