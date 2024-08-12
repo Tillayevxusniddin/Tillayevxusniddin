@@ -11,5 +11,5 @@ I really like to travel and read books
 
 ### Programming Languages and Tools I work with:
 
-<code><img src="https://w7.pngwing.com/pngs/761/45/png-transparent-professional-python-programmer-computer-programming-android-android-blue-logo-computer-program-thumbnail.png" height="25px"><code>
+<code><img src="https://i.pngimg.me/thumb/f/720/comdlpng6968821.jpg" height="25px"><code>
 
