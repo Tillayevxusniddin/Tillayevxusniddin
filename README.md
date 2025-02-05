@@ -1,6 +1,6 @@
 ### Hi, I'm Tillayev Xusniddin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-🚀 **Backend Developer | Full Stack Enthusiast**
+🚀 **Backend Developer | Full Stack**
 
 I specialize in **Web Backend Development** with a strong focus on **Python (Django, Flask)** and **PHP (Laravel)**. Apart from backend development, I also have experience with frontend technologies and databases. I love exploring new technologies, traveling, and reading books. 📖✈️
 
@@ -31,7 +31,7 @@ I specialize in **Web Backend Development** with a strong focus on **Python (Dja
 ### 🌍 About Me:
 - 📍 **Current Location:** Tashkent, Uzbekistan
 - 📌 **Open to Collaboration & Suggestions:** Always!
-- 📩 **Reach Me:** [Telegram](https://t.me/Mr_Pydev) | [Email](mailto:tillayevx1@gmail.com) | [Instagram](https://www.instagram.com/xusniddin13_04/)
+- 📩 **Reach Me:** [Telegram](https://t.me/tillayevxn) | [Email](mailto:tillayevx1@gmail.com) | [Instagram](https://www.instagram.com/xusniddin13_04/)
 
 Let's connect and build something amazing together! 🚀
 
