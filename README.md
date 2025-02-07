@@ -17,8 +17,8 @@ I specialize in **Web Backend Development** with a strong focus on **Python (Dja
 <a href="https://www.djangoproject.com/"><img src="https://builtwithdjango.com/static/vendors/images/logo.ee701a5f0ffc.png" width="35px"></a> &nbsp;
 <a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="35px"></a> &nbsp;
 <a href="https://expressjs.com/"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="35px"></a> &nbsp;
-<a href="https://react.dev/"><img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" width="35px"></a> &nbsp;
-<a href="https://nextjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="35px"></a> &nbsp;
+<!-- Updated Next.js Icon for Dark Mode -->
+<a href="https://nextjs.org/"><img src="https://cdn.iconscout.com/icon/free/png-512/next-js-1174925.png" width="35px"></a> &nbsp;
 
 #### **Databases**
 <a href="https://www.postgresql.org/"><img src="https://cdn-icons-png.flaticon.com/128/5658/5658359.png" width="35px"></a> &nbsp;
@@ -34,4 +34,3 @@ I specialize in **Web Backend Development** with a strong focus on **Python (Dja
 - 📩 **Reach Me:** [Telegram](https://t.me/tillayevxn) | [Email](mailto:tillayevx1@gmail.com) | [Instagram](https://www.instagram.com/xusniddin13_04/)
 
 Let's connect and build something amazing together! 🚀
-
