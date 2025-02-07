@@ -16,7 +16,7 @@ I specialize in **Web Backend Development** with a strong focus on **Python (Dja
 #### **Frameworks & Libraries**
 <a href="https://www.djangoproject.com/"><img src="https://builtwithdjango.com/static/vendors/images/logo.ee701a5f0ffc.png" width="35px"></a> &nbsp;
 <a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="35px"></a> &nbsp;
-<a href="https://expressjs.com/"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="35px"></a>
+<a href="https://expressjs.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" width="35px"></a>
 <a href="https://nextjs.org/"><img src="https://cdn.iconscout.com/icon/free/png-512/next-js-1174925.png" width="35px"></a> &nbsp;
 
 #### **Databases**
