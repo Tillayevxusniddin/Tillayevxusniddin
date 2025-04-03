@@ -2,7 +2,9 @@
 
 🚀 **Backend Developer | Full Stack**
 
-I specialize in **Web Backend Development** with a strong focus on **Python (Django, Flask)** and **PHP (Laravel)**. Apart from backend development, I also have experience with frontend technologies and databases. I love exploring new technologies, traveling, and reading books. 📖✈️
+I specialize in Web Backend Development, primarily focusing on dynamic programming languages like Python (Django REST Framework), PHP (Laravel), and JavaScript (Express.js). Additionally, I have an interest in DevOps and Shell Scripting. I have some knowledge of Frontend Development as well.
+
+I’m passionate about learning new technologies, traveling ✈️, and reading books📖. My motto is to always level up! 🚀 
 
 ---
 
