@@ -1,10 +1,10 @@
 ### Hi, I'm Tillayev Xusniddin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-🚀 **Backend Developer | Full Stack**
+🚀 **Backend Developer | DevOps Enthusiast**
 
-I specialize in Web Backend Development, primarily focusing on dynamic programming languages like Python (Django REST Framework), PHP (Laravel), and JavaScript (Express.js). Additionally, I have an interest in DevOps and Shell Scripting. I have some knowledge of Frontend Development as well.
-
-I’m passionate about learning new technologies, traveling ✈️, and reading books📖. My motto is to always level up! 🚀 
+I specialize in Backend Development using **Node.js** and **Python (Django REST Framework)**. I am passionate about building scalable and efficient APIs, and I enjoy working on deployment, automation, and server management tasks.
+My primary focus is on **DevOps** practices, particularly with **AWS**, **CI/CD pipelines**, and overall cloud infrastructure. I’m also interested in infrastructure as code (IaC), containerization (Docker), and orchestration tools.
+I'm constantly exploring new technologies and optimizing development workflows. My motto is to **always level up**! 🚀
 
 ---
 
