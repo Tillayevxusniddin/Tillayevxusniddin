@@ -31,7 +31,9 @@ I'm constantly exploring new technologies and optimizing development workflows. 
 <a href="https://www.docker.com/"><img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="35px"></a> &nbsp;
 <a href="https://aws.amazon.com/"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="35px"></a> &nbsp;
 <a href="https://redis.io/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-redis-6-1175105.png" width="35px"></a> &nbsp;
-<a href="https://www.rabbitmq.com/"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/rabbitmq-icon.png" width="35px"></a> &nbsp;
+<a href="https://www.rabbitmq.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="35px" style="background-color:white; border-radius:5px; padding:3px;" />
+</a>
 <a href="https://github.com/features/actions"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="35px"></a> &nbsp;
 <a href="https://www.linux.org/"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="35px"></a> &nbsp;
 
