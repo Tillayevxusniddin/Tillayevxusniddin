@@ -1,6 +1,6 @@
 ### Hi, I'm Tillayev Xusniddin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-🚀 **Backend Developer | DevOps Enthusiast**
+🚀 **Backend Engineer | DevOps Enthusiast**
 
 I specialize in Backend Development using **Node.js** and **Python (Django REST Framework)**. I am passionate about building scalable and efficient APIs, and I enjoy working on deployment, automation, and server management tasks.
 My primary focus is on **DevOps** practices, particularly with **AWS**, **CI/CD pipelines**, and overall cloud infrastructure. I’m also interested in infrastructure as code (IaC), containerization (Docker), and orchestration tools.
